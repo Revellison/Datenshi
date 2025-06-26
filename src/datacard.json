@@ -1,0 +1,17 @@
+[
+  {
+    "avatarUrl": "/data/Revellison/Revellison.jpg",
+    "nickname": "Revellison",
+    "farmCount": 1,
+    "status": "Глава",
+    "userId": 1,
+    "farms": [
+      {
+        "name": "Ферма железа",
+        "screenshot": "/data/Revellison/iron_farm/index.png",
+        "coords": "X:-3414, Y:1438",
+        "url": "https://cmcraft.su/map/?world=minecraft_overworld&zoom=4&x=-3414&z=1438"
+      }
+    ]
+  }
+] 
