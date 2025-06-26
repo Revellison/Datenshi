@@ -16,7 +16,7 @@ function App() {
   const [users, setUsers] = useState([]);
 
   useEffect(() => {
-    fetch('/src/datacard.json')
+    fetch('./datacard.json')
       .then(res => res.json())
       .then(data => setUsers(data));
   }, []);
